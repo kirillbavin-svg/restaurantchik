@@ -6,7 +6,7 @@
 
 | На компьютере | На iPhone |
 | --- | --- |
-| ![Меню Ресторанчика на компьютере](docs/screenshots/menu-desktop.jpg) | ![Меню Ресторанчика на iPhone](docs/screenshots/menu-iphone.jpg) |
+| ![Меню Ресторанчика на iPhone](docs/screenshots/menu-iphone.jpg) |
 
 > На скриншотах показано реальное домашнее меню. Сама база, загруженные фотографии, заказы, отзывы, долги и Telegram-токен в репозиторий не входят.
 
