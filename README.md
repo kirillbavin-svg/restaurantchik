@@ -4,9 +4,10 @@
 
 ## Интерфейс
 
-| На компьютере | На iPhone |
-| --- | --- |
-| ![Меню Ресторанчика на iPhone](docs/screenshots/menu-iphone.jpg) |
+| | На компьютере | На iPhone |
+| --- | --- | --- |
+| Меню | ![Меню Ресторанчика на компьютере](docs/screenshots/menu-desktop.png) | ![Меню Ресторанчика на iPhone](docs/screenshots/menu-iphone.png) |
+| Заказы | ![Заказы Ресторанчика на компьютере](docs/screenshots/orders-desktop.png) | ![Заказы Ресторанчика на iPhone](docs/screenshots/orders-iphone.png) |
 
 > На скриншотах показано реальное домашнее меню. Сама база, загруженные фотографии, заказы, отзывы, долги и Telegram-токен в репозиторий не входят.
 
